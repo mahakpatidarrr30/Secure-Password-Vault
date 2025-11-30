@@ -3,18 +3,18 @@ A secure and user-friendly desktop application built with Java, JavaFX, CSS, HTM
 ## Features
 ### 1. User Authentication
 Login system to ensure only authorized users can access the vault
-### Encryted Password Storage
+### 2.Encryted Password Storage
 All stored credentials are securely encrypted before being saved in the SQL database.
-### 2. Password Management (CRUD)
+### 3. Password Management (CRUD)
 ● Add new credentials
 ● View existing credentials
 ● Update saved entries
 ● Delete entries
-### 3. Built-in Password Generator
+### 4. Built-in Password Generator
 Generates strong, random passwords with customizable complexity.
-### 4. JavaFX-Based GUI
+### 5. JavaFX-Based GUI
 Modern and intuitive interface styled using CSS and HTML fragments.
-### 5. SQL Database Integration
+### 6. SQL Database Integration
 Stores user data and password entries reliably and securely.
 ## Installations Required
 ● Java Development Kit (JDK)
