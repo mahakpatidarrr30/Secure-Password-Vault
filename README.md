@@ -10,4 +10,15 @@ All stored credentials are securely encrypted before being saved in the SQL data
 ● View existing credentials
 ● Update saved entries
 ● Delete entries
-### 
+### Built-in Password Generator
+Generates strong, random passwords with customizable complexity.
+### JavaFX-Based GUI
+Modern and intuitive interface styled using CSS and HTML fragments.
+### SQL Database Integration
+Stores user data and password entries reliably and securely.
+### Installations Required
+● Java Development Kit (JDK)
+● JavaFX SDK
+● Apache Maven
+● Database System (SQL)
+● IDE (InteliJ)
