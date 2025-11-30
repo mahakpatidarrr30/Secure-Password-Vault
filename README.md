@@ -3,7 +3,7 @@ A secure and user-friendly desktop application built with Java, JavaFX, CSS, HTM
 ## Features
 ### 1. User Authentication
 Login system to ensure only authorized users can access the vault
-### 2.Encryted Password Storage
+### 2. Encryted Password Storage
 All stored credentials are securely encrypted before being saved in the SQL database.
 ### 3. Password Management (CRUD)
 ● Add new credentials
